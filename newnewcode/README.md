@@ -1,5 +1,3 @@
-# Lab
-
 1. Get better at coding
    Doing css animation
    Using ai to detect food ingridients for our app
